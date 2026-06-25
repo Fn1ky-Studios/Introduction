@@ -1,1 +1,2 @@
-#  Introduction ------>
+# 👋 Introduction 
+Hello we are   team a developer team from new belgrade, serbia founded by fn1ky and frin originalloy as a passion project that eventaully grew into more then just a passion project with support from other friends and growing our knowledge helped improve and grow the team with more people joining we hope you still enjoy our services even  if the team disbanded we will still work as a brand under fn1ky's alias now a label and brand for more information check this post: https://fn1ky.com/2026/06/01/june-1-2026-fn1ky-team-disbands/
